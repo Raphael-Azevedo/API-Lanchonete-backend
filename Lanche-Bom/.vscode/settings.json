@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f790ffe4-2501-48bc-84b1-658284a1fd4a/AppServices/subscriptions/f790ffe4-2501-48bc-84b1-658284a1fd4a/resourceGroups/app-stgen/providers/Microsoft.Web/sites/app-stgen",
+    "appService.deploySubpath": "dist"
+}
